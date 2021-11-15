@@ -1,4 +1,4 @@
-#### 现货K线数据
+#### 合约K线数据
 
 + url： `/public/contract` (GET)
 
